@@ -7,17 +7,17 @@
     "category": "headset",
     "location": "5 stores",
     "status": "Active",
-    "color": "black",
+    "color": "black"
   },
   {
     "id": "2",
-    "name": "LOGITECH PROX"
+    "name": "LOGITECH PROX",
     "stock": 10,
     "imageUrl": "http://nindam.sytes.net/std6630202104/Invemtory/LOGITECH%20PROX.jpg",
     "category": "headset",
     "location": "4 stores",
     "status": "Active",
-    "color": "black",
+    "color": "black"
   },
   {
     "id": "3",
@@ -27,6 +27,6 @@
     "category": "headset",
     "location": "5 stores",
     "status": "Low stock",
-    "color": "pink",
+    "color": "pink"
   }
 ]
