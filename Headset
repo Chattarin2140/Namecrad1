@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "HYPER-X HEADSET CLOUD STINGER 2",
+    "stock": 8,
+    "image": "http://nindam.sytes.net/std6630202104/Invemtory/HYPER-X%20HEADSET%20CLOUD%20STINGER%202.jpg",
+    "category": "headset",
+    "location": "5 stores",
+    "status": "Active",
+    "color": "black",
+  },
+  {
+    "id": "2",
+    "name": "LOGITECH PROX"
+    stock: 10,
+    "image": "http://nindam.sytes.net/std6630202104/Invemtory/LOGITECH%20PROX.jpg",
+    "category": "headset",
+    "location": "4 stores",
+    "status": "Active",
+    "color": "black",
+  },
+  {
+    "id": "3",
+    "name": "Onisuka",
+    stock: 1,
+    "image": "http://nindam.sytes.net/std6630202104/Invemtory/Onisuka.jpg",
+    "category": "headset",
+    "location": "5 stores",
+    "status": "Low stock",
+    "color": "pink",
+  }
+]
